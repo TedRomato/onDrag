@@ -10,7 +10,7 @@
 </ol>
 
 <h3>Notes:</h3>
-<p>Doesn't work with elements, which outer width, doesn't match their width. (Don't use margin :]) Requires jQuery to work. Arguments fed to callback function are passed as arraz with x, y differences. When drag doesn't occur, or cursor is outside the element, null is passed.</p>
+<p>Doesn't work with elements, which outer width, doesn't match their width. (Don't use margin :]) Requires jQuery to work. Arguments fed to callback function are passed as arrays with x, y differences. When drag doesn't occur, or cursor is outside the element, null is passed.</p>
 
 <h3>Code example:</h3>
 
