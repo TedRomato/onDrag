@@ -44,7 +44,8 @@ function callback(drag){
 
 
 ```
-![image](https://user-images.githubusercontent.com/59472129/116870360-bde19b00-ac12-11eb-978e-497c75670260.png)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/59472129/116870432-db166980-ac12-11eb-88a2-51507c1ce63d.gif)
+
 
 
 
